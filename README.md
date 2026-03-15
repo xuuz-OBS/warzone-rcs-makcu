@@ -2,6 +2,8 @@
 
 A recoil control system for Black Ops 7 / Warzone using MAKCU hardware.
 
+YouTube Preview: https://www.youtube.com/watch?v=tsoScWcu5f0
+
 > **For educational purposes only. Use at your own risk.**
 
 ---
